@@ -1,0 +1,9 @@
+C:\Users\Николай\Desktop\CacheWork-master\CacheWork\bin\Debug\CacheWork.exe.config
+C:\Users\Николай\Desktop\CacheWork-master\CacheWork\bin\Debug\CacheWork.exe
+C:\Users\Николай\Desktop\CacheWork-master\CacheWork\bin\Debug\CacheWork.pdb
+C:\Users\Николай\Desktop\CacheWork-master\CacheWork\obj\Debug\CacheWork.csprojAssemblyReference.cache
+C:\Users\Николай\Desktop\CacheWork-master\CacheWork\obj\Debug\CacheWork.Form1.resources
+C:\Users\Николай\Desktop\CacheWork-master\CacheWork\obj\Debug\CacheWork.Properties.Resources.resources
+C:\Users\Николай\Desktop\CacheWork-master\CacheWork\obj\Debug\CacheWork.csproj.GenerateResource.cache
+C:\Users\Николай\Desktop\CacheWork-master\CacheWork\obj\Debug\CacheWork.exe
+C:\Users\Николай\Desktop\CacheWork-master\CacheWork\obj\Debug\CacheWork.pdb
